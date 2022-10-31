@@ -11,7 +11,7 @@ function App() {
         style={{
           border: "1px solid lightgray",
           width: "100%",
-          height: "97vh"
+          height: "94vh"
         }}
       ></iframe>
     </div>
